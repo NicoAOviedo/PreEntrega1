@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "title": "Prod1",
+      "description": "Desc1",
+      "price": 34,
+      "code": "567",
+      "stock": 4,
+      "category": "Cat1",
+      "thumbnail":"Thumb1",
+      "status": true
+    },
+    {
+        "id": 2,
+        "title": "Prod2",
+        "description": "Desc2",
+        "price": 35,
+        "code": "004",
+        "stock": 9,
+        "category": "Cat2",
+        "thumbnail":"Thumb2",
+        "status": true
+    }
+  ]
